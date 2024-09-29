@@ -1,0 +1,34 @@
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\bin\Debug\net8.0-windows\Calculadora de IMC.exe
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\bin\Debug\net8.0-windows\Calculadora de IMC.deps.json
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\bin\Debug\net8.0-windows\Calculadora de IMC.runtimeconfig.json
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\bin\Debug\net8.0-windows\Calculadora de IMC.dll
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\bin\Debug\net8.0-windows\Calculadora de IMC.pdb
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0-windows\Calculadora_de_IMC.Form1.resources
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0-windows\Calculadora_de_IMC.Properties.Resources.resources
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0-windows\Calculadora de IMC.csproj.GenerateResource.cache
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0-windows\Calculadora de IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0-windows\Calculadora de IMC.AssemblyInfoInputs.cache
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0-windows\Calculadora de IMC.AssemblyInfo.cs
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0-windows\Calculadora de IMC.csproj.CoreCompileInputs.cache
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0-windows\Calculadora de IMC.dll
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0-windows\refint\Calculadora de IMC.dll
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0-windows\Calculadora de IMC.pdb
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0-windows\Calculadora de IMC.genruntimeconfig.cache
+C:\Users\erick.lauer\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0-windows\ref\Calculadora de IMC.dll
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\bin\Debug\net8.0-windows\Calculadora de IMC.exe
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\bin\Debug\net8.0-windows\Calculadora de IMC.deps.json
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\bin\Debug\net8.0-windows\Calculadora de IMC.runtimeconfig.json
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\bin\Debug\net8.0-windows\Calculadora de IMC.dll
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\bin\Debug\net8.0-windows\Calculadora de IMC.pdb
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\obj\Debug\net8.0-windows\Calculadora_de_IMC.Form1.resources
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\obj\Debug\net8.0-windows\Calculadora_de_IMC.Properties.Resources.resources
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\obj\Debug\net8.0-windows\Calculadora de IMC.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\obj\Debug\net8.0-windows\Calculadora de IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\obj\Debug\net8.0-windows\Calculadora de IMC.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\obj\Debug\net8.0-windows\Calculadora de IMC.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\obj\Debug\net8.0-windows\Calculadora de IMC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\obj\Debug\net8.0-windows\Calculadora de IMC.dll
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\obj\Debug\net8.0-windows\refint\Calculadora de IMC.dll
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\obj\Debug\net8.0-windows\Calculadora de IMC.pdb
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\obj\Debug\net8.0-windows\Calculadora de IMC.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\IMC-main\obj\Debug\net8.0-windows\ref\Calculadora de IMC.dll

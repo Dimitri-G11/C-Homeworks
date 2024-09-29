@@ -1,0 +1,32 @@
+C:\Users\Kauan Lauer\source\repos\Lista de Tarefas\Lista de Tarefas\bin\Debug\net8.0-windows\Lista de Tarefas.exe
+C:\Users\Kauan Lauer\source\repos\Lista de Tarefas\Lista de Tarefas\bin\Debug\net8.0-windows\Lista de Tarefas.deps.json
+C:\Users\Kauan Lauer\source\repos\Lista de Tarefas\Lista de Tarefas\bin\Debug\net8.0-windows\Lista de Tarefas.runtimeconfig.json
+C:\Users\Kauan Lauer\source\repos\Lista de Tarefas\Lista de Tarefas\bin\Debug\net8.0-windows\Lista de Tarefas.dll
+C:\Users\Kauan Lauer\source\repos\Lista de Tarefas\Lista de Tarefas\bin\Debug\net8.0-windows\Lista de Tarefas.pdb
+C:\Users\Kauan Lauer\source\repos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista_de_Tarefas.Form1.resources
+C:\Users\Kauan Lauer\source\repos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista de Tarefas.csproj.GenerateResource.cache
+C:\Users\Kauan Lauer\source\repos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista de Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauan Lauer\source\repos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista de Tarefas.AssemblyInfoInputs.cache
+C:\Users\Kauan Lauer\source\repos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista de Tarefas.AssemblyInfo.cs
+C:\Users\Kauan Lauer\source\repos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista de Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Kauan Lauer\source\repos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista de Tarefas.dll
+C:\Users\Kauan Lauer\source\repos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\refint\Lista de Tarefas.dll
+C:\Users\Kauan Lauer\source\repos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista de Tarefas.pdb
+C:\Users\Kauan Lauer\source\repos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista de Tarefas.genruntimeconfig.cache
+C:\Users\Kauan Lauer\source\repos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\ref\Lista de Tarefas.dll
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Lista de Tarefas\Lista de Tarefas\bin\Debug\net8.0-windows\Lista de Tarefas.exe
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Lista de Tarefas\Lista de Tarefas\bin\Debug\net8.0-windows\Lista de Tarefas.deps.json
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Lista de Tarefas\Lista de Tarefas\bin\Debug\net8.0-windows\Lista de Tarefas.runtimeconfig.json
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Lista de Tarefas\Lista de Tarefas\bin\Debug\net8.0-windows\Lista de Tarefas.dll
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Lista de Tarefas\Lista de Tarefas\bin\Debug\net8.0-windows\Lista de Tarefas.pdb
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista_de_Tarefas.Form1.resources
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista de Tarefas.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista de Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista de Tarefas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista de Tarefas.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista de Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista de Tarefas.dll
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\refint\Lista de Tarefas.dll
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista de Tarefas.pdb
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\Lista de Tarefas.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Lista de Tarefas\Lista de Tarefas\obj\Debug\net8.0-windows\ref\Lista de Tarefas.dll

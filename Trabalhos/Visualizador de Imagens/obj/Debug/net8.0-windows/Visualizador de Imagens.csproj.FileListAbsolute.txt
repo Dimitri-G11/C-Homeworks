@@ -1,0 +1,32 @@
+C:\Users\Kauan Lauer\source\repos\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador_de_Imagens.Form1.resources
+C:\Users\Kauan Lauer\source\repos\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador de Imagens.csproj.GenerateResource.cache
+C:\Users\Kauan Lauer\source\repos\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador de Imagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauan Lauer\source\repos\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador de Imagens.AssemblyInfoInputs.cache
+C:\Users\Kauan Lauer\source\repos\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador de Imagens.AssemblyInfo.cs
+C:\Users\Kauan Lauer\source\repos\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador de Imagens.csproj.CoreCompileInputs.cache
+C:\Users\Kauan Lauer\source\repos\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\net8.0-windows\Visualizador de Imagens.exe
+C:\Users\Kauan Lauer\source\repos\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\net8.0-windows\Visualizador de Imagens.deps.json
+C:\Users\Kauan Lauer\source\repos\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\net8.0-windows\Visualizador de Imagens.runtimeconfig.json
+C:\Users\Kauan Lauer\source\repos\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\net8.0-windows\Visualizador de Imagens.dll
+C:\Users\Kauan Lauer\source\repos\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\net8.0-windows\Visualizador de Imagens.pdb
+C:\Users\Kauan Lauer\source\repos\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador de Imagens.dll
+C:\Users\Kauan Lauer\source\repos\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net8.0-windows\refint\Visualizador de Imagens.dll
+C:\Users\Kauan Lauer\source\repos\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador de Imagens.pdb
+C:\Users\Kauan Lauer\source\repos\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador de Imagens.genruntimeconfig.cache
+C:\Users\Kauan Lauer\source\repos\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\net8.0-windows\ref\Visualizador de Imagens.dll
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Visualizador de Imagens\bin\Debug\net8.0-windows\Visualizador de Imagens.exe
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Visualizador de Imagens\bin\Debug\net8.0-windows\Visualizador de Imagens.deps.json
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Visualizador de Imagens\bin\Debug\net8.0-windows\Visualizador de Imagens.runtimeconfig.json
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Visualizador de Imagens\bin\Debug\net8.0-windows\Visualizador de Imagens.dll
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Visualizador de Imagens\bin\Debug\net8.0-windows\Visualizador de Imagens.pdb
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador_de_Imagens.Form1.resources
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador de Imagens.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador de Imagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador de Imagens.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador de Imagens.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador de Imagens.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador de Imagens.dll
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Visualizador de Imagens\obj\Debug\net8.0-windows\refint\Visualizador de Imagens.dll
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador de Imagens.pdb
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Visualizador de Imagens\obj\Debug\net8.0-windows\Visualizador de Imagens.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\trabalhos\c#\Trabalhos\Visualizador de Imagens\obj\Debug\net8.0-windows\ref\Visualizador de Imagens.dll
