@@ -1,0 +1,10 @@
+C:\Users\Kauan Lauer\source\repos\Gerador De Senha\Gerador De Senha\bin\Debug\Gerador De Senha.exe.config
+C:\Users\Kauan Lauer\source\repos\Gerador De Senha\Gerador De Senha\bin\Debug\Gerador De Senha.exe
+C:\Users\Kauan Lauer\source\repos\Gerador De Senha\Gerador De Senha\bin\Debug\Gerador De Senha.pdb
+C:\Users\Kauan Lauer\source\repos\Gerador De Senha\Gerador De Senha\obj\Debug\Gerador De Senha.csproj.AssemblyReference.cache
+C:\Users\Kauan Lauer\source\repos\Gerador De Senha\Gerador De Senha\obj\Debug\Gerador_De_Senha.Properties.Resources.resources
+C:\Users\Kauan Lauer\source\repos\Gerador De Senha\Gerador De Senha\obj\Debug\Gerador De Senha.csproj.GenerateResource.cache
+C:\Users\Kauan Lauer\source\repos\Gerador De Senha\Gerador De Senha\obj\Debug\Gerador De Senha.csproj.CoreCompileInputs.cache
+C:\Users\Kauan Lauer\source\repos\Gerador De Senha\Gerador De Senha\obj\Debug\Gerador De Senha.exe
+C:\Users\Kauan Lauer\source\repos\Gerador De Senha\Gerador De Senha\obj\Debug\Gerador De Senha.pdb
+C:\Users\Kauan Lauer\source\repos\Gerador De Senha\Gerador De Senha\obj\Debug\Gerador_De_Senha.Form1.resources
